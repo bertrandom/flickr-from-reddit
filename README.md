@@ -5,4 +5,4 @@ Find trending Flickr photos from a bunch of photo subreddits and create a browsa
 
 Usage:
 
-  node app
+```node app```
